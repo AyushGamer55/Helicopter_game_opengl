@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ayush/OneDrive/Documents/code files",
-      "program": "c:/Users/Ayush/OneDrive/Documents/code files/build/Debug/outDebug",
+      "cwd": "your own path",
+      "program": "your own path",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
